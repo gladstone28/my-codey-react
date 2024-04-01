@@ -1,12 +1,11 @@
+import React from 'react';
+import {comments} from './commentData';
 
-import './App.css';
+import Card from './Card';
 
-function App() {
+function App () {
   return (
-    <div className="App">
-<h1>Gladstone</h1>
-    </div>
-  );
+    comments.map(comment => <Card commentObject={comment} />)
+  )
 }
-
 export default App;

@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-codey/static/js/main.c235c59e.js",
+    "index.html": "/my-codey/index.html",
+    "main.c235c59e.js.map": "/my-codey/static/js/main.c235c59e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c235c59e.js"
+  ]
+}
